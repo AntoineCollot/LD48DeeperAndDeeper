@@ -58,7 +58,7 @@ public class CharController : MonoBehaviour
 
             if(Mathf.Abs(playerInputs)<0.05f)
             {
-                targetScrollSpeed = 2;
+                targetScrollSpeed = 3;
             }
         }
 
